@@ -2,7 +2,7 @@
 
 I'm a first-year student at CUHK-Shenzhen who enjoys building practical things with code.
 
-💻 Interested in programming, student projects, and AI-assisted development  
-🛠️ I like working on small websites, experimental game projects, and useful tools  
-🌱 Currently exploring web development, AI workflows, and project prototyping  
-✨ I value independent learning, clear logic, and turning ideas into real outputs
+💻 Interested in programming, AI, and practical projects  
+🛠️ Building small websites, game experiments, and useful tools  
+🌱 Exploring web development and AI workflows  
+✨ Learning through building, debugging, and iteration
